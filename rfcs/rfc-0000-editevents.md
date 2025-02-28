@@ -65,3 +65,4 @@ Of course the future idea below is just an idea and, if it is not implemented, c
 
 # Future ideas
 - If there was, for some reason, a featue for editing other people's messages (with relevant permissions), you could also show a mini-profile picture of the person editing a message in the message box. That is why a user ID is passed through with the S2C event.
+- Adding options in Settings to turn off certain events like typing and edit-typing.
